@@ -497,5 +497,5 @@ if(message.content.startsWith(prefix + "clear")){
     }
 });
 
-Client.login("ODEzMDEyNDA3ODkwMjE0OTcy.YDJGzw.n6UWp2rH6P92aGeZ7bKmmgPszx4");
+Client.login("ODEzMDEyNDA3ODkwMjE0OTcy.YDJGzw.dqrFKHMK7_kzi9ziqGhUnWp8IEQ" ) ;
 
